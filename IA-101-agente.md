@@ -142,7 +142,7 @@ Sugira, não execute. Uma frase: "Quer usar o P8 antes de seguir? Ele evita …"
 | Fim de sessão ou contexto perto de 50% | P12 (fechamento e retomada) |
 | Vai construir algo maior que um ajuste | P13 → /clear → P14 → /clear → P15 → P16 por tarefa |
 
-O texto completo de P1–P16 está no site, seção 11.
+O texto completo de P1–P16 está no site, seção 10.
 
 ---
 
@@ -255,4 +255,4 @@ Briefing: 01-objetivo/briefing.md · Último log: session-log/AAAA-MM-DD.md · R
 
 ---
 
-Fontes: aulas de 04/07 e 12/07, repositório da aula e case Dolphin, documentação oficial (Claude Code, VS Code, GitHub) e Deborah Folloni (vídeo "Vibe Coding não funciona", 01/04/2026, e textos no Substack). Detalhes e links no site, seção 15.
+Fontes: aulas de 04/07 e 12/07, repositório da aula e case Dolphin, documentação oficial (Claude Code, VS Code, GitHub) e Deborah Folloni (vídeo "Vibe Coding não funciona", 01/04/2026, e textos no Substack). Detalhes e links no site, seção 14.
